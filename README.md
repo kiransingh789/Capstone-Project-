@@ -1,1 +1,2 @@
-# Capstone-Project-
+# School_Funding_Assistant_Project
+This collaborative effort explores the foundational development of a future tool that educational institutions may use to discover options for outside funding through federal, state and private grants. It is focused purely on the School Improvement Grant that is offered nationally to underprivileged schools. The future steps for this project include the aggregation of additional grants and funding, the development of the user side tool that will allow easy access and navigation to grants that an applicant are likely to be approved for based on their demographic information.
